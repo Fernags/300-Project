@@ -1,0 +1,16 @@
+# Quiz Maker & Study Assistant
+
+A Java application that allows students to create quizzes, take quizzes, and review their results.
+
+## Week 1 (v0.1)
+- Created eight Java classes.
+  1. Main
+  2. Question
+  3. Quiz
+  4. QuizResult
+  5. User
+  6. Course
+  7. School
+  8. Folder
+- Implemented basic quiz creation.
+- Tested the application in IntelliJ IDEA.
