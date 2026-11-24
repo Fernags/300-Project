@@ -14,3 +14,12 @@ A Java application that allows students to create quizzes, take quizzes, and rev
   8. Folder
 - Implemented basic quiz creation.
 - Tested the application in IntelliJ IDEA.
+
+## Week 2 (v0.2)
+- Added
+  1. JavaFX UI
+  2. Start of Student and Teacher profiles
+  3. Saved results and review
+  4. Teacher control over feedback
+- Implemented grading and quiz taking
+- Tested the application in IntelliJ IDEA.
